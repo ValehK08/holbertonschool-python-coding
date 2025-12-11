@@ -13,7 +13,7 @@ class Square:
     def size(self):
         """GEEET IT"""
 
-        return self.__x
+        return self.__size
 
     def size(self, size):
         """SIIIIZE"""
